@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2019-12-01" view-index="0" gantt-divider-location="512" resource-divider-location="300" version="2.8.9" locale="pl_PL">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2019-12-11" view-index="0" gantt-divider-location="512" resource-divider-location="300" version="2.8.9" locale="pl_PL">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nazwa zadania" width="253" order="0"/>
@@ -42,8 +42,8 @@
         <task id="28" name="2 korekta z klientem" color="#8cb6ce" meeting="false" start="2019-12-17" duration="1" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
         <task id="30" name="finalne dokańczanie siatki interfejsu" color="#8cb6ce" meeting="false" start="2019-12-18" duration="5" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
         <task id="32" name="finalne dokańczanie ikon" color="#8cb6ce" meeting="false" start="2019-12-18" duration="5" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
-        <task id="34" name="złożenie całości" color="#8cb6ce" meeting="false" start="2019-12-25" duration="1" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
-        <task id="36" name="oddanie klientowi pracy, podsumowanie" color="#8cb6ce" meeting="false" start="2019-12-26" duration="1" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
+        <task id="34" name="złożenie całości" color="#8cb6ce" meeting="false" start="2019-12-25" duration="4" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
+        <task id="36" name="oddanie klientowi pracy, podsumowanie" color="#8cb6ce" meeting="false" start="2019-12-31" duration="1" complete="0" thirdDate="2019-12-02" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
